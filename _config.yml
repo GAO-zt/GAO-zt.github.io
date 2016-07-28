@@ -6,7 +6,7 @@ email: gao.zt.xjtu@gmail.com
 description: "施工中"
 keyword: ""
 url: "http://GAO-zt.github.io"              # your host, for absolute URL
-baseurl: "/blog"         		# for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""         		# for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
