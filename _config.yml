@@ -1,7 +1,7 @@
 # Site settings
 title: Gaozt's Blog
 SEOTitle: Gaozt's Blog
-header-img: img/home-bg.jpg
+header-img: img/home-bg-xjtu.jpg
 email: gao.zt.xjtu@gmail.com
 description: "施工中"
 keyword: ""
@@ -68,7 +68,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "⑨"
+sidebar-about-description: "⑨⑨⑨⑨⑨⑨⑨⑨⑨"
 sidebar-avatar: /img/avatar-izumi-konata.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
